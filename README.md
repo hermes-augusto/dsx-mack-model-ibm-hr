@@ -77,6 +77,7 @@ Gráficos detalhados estão disponíveis na pasta `data/img`, ilustrando insight
 ## Modelos Salvos
 
 Os modelos treinados estão organizados na pasta `data/pickle`, categorizados por método de balanceamento, técnica de normalização e otimização utilizada.
+Não estarão salvos os modelos devido o tamanho dos arquivos
 
 ## Instalação
 
@@ -103,10 +104,6 @@ Abra os notebooks usando Jupyter Notebook
 - Colocar mais casos de uso
 - Monitoramento contínuo e ajustes finos nos modelos em produção.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com sugestões, melhorias ou novas abordagens.
-
 ---
 
-**Autores**: Hermes, Lucio, Nathali, Vitor
+**Autores**: Hermes, Lucio, Nathalia, Vitor
